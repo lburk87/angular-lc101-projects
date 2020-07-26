@@ -6,6 +6,7 @@ img {
    height: 150px;
    width: 200px;
    object-fit: cover;
+   padding-top: 20px;
 }
 
 .photos {
