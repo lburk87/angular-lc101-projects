@@ -1,0 +1,11 @@
+.container {
+    padding-top: 20px;
+}
+
+hr {
+    border: 2px dotted indigo;
+}
+
+div {
+    background-color: lightgray;
+}
